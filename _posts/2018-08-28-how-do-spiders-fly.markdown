@@ -4,7 +4,7 @@ title: How do spiders fly?
 date: 2018-08-28 00:00:00 +0300
 description: Who even knew spiders could fly? # Add post description (optional)
 img: flyingSpider.jpg # Add image post (optional)
-tags: [Productivity, Software] # add tag
+tags: [science, spider, flying, insects] # add tag
 ---
 
 Do you know how spiders fly? (Who even knew spiders could fly?) Charlie brings in new research that turns two centuries of conventional wisdom on its head. 

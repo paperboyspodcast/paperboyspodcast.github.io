@@ -2,7 +2,7 @@
 layout: post
 title: Saturn is whistling to its moon Enceladus
 date: 2018-09-06 03:00:00 -0700
-description: Saturn whistling episode. # Add post description (optional)
+description: We break down the "song of the summer". # Add post description (optional)
 img: saturnEncelnew.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [space, saturn, whistling, enceladus]

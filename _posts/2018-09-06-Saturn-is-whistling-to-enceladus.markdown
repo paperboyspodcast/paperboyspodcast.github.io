@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Saturn is Whistling to its moon Enceladus
+title: Saturn is whistling to its moon Enceladus
 date: 2018-09-06 03:00:00 -0700
 description: Saturn whistling episode. # Add post description (optional)
 img: saturnEncel.jpg # Add image post (optional)

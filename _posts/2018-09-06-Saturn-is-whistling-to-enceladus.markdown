@@ -11,7 +11,7 @@ tags: [space, saturn, whistling, enceladus]
 Want to know what a plasma wave from outer space sounds like? Well, it's kind of like whistling (or aliens, according to Nikola Tesla). 
 
 Charlie brings in new research from NASA that you have to hear to believe. 
-[//]:#[Listen to the podcast](https://pinecast.com/listen/27bdfb9e-3a1d-4c20-ba4f-e579ecd7b74b.mp3?source=rss&ext=asset.mp3)
+
 {% include {{page.audio}}%}
 
 [Check out the paper](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018GL078130)

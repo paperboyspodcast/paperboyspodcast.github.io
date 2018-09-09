@@ -5,6 +5,7 @@ date: 2018-09-06 03:00:00 -0700
 description: We break down the "song of the summer". # Add post description (optional)
 img: saturnEncelnew.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
+audio: saturnEncel.html #embedded audio code from pinecast
 tags: [space, saturn, whistling, enceladus]
 ---
 Want to know what a plasma wave from outer space sounds like? Well, it's kind of like whistling (or aliens, according to Nikola Tesla). 

@@ -12,7 +12,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 author: Paper Boys # add your name
 author-img: paperBoysLogo.png # add your photo
 about-author: Science papers <br> delivered weekly. # add description
-#social-twitter: # add your Twitter handle
+social-twitter: paperboyspod # add your Twitter handle
 social-facebook: podcastpaperboys # add your Facebook handle
 #social-github: paperboyspodcast # add your Github handle
 #social-linkedin: # add your Linkedin handle

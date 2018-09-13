@@ -16,6 +16,8 @@ Charlie brings in new research from NASA that you have to hear to believe.
 
 [Check out the paper](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018GL078130)
 
+Questions or comments? Reach out to us: [Email](paperboyspod@gmail.com) [Twitter](https://twitter.com/PaperBoysPod)
+
 Also, huge thanks to Dammit Eugene for the Paper Boys theme song! [Check out his other work here](https://soundcloud.com/dammit-eugene/tracks)
 
 [//]: #"![I and My friends]({{site.baseurl}}/assets/img/marsRadar.jpg)"

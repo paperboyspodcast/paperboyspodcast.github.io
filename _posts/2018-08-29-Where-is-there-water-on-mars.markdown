@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Where is there water on Mars?
+title: How to find water on Mars
 date: 2018-08-29 13:32:20 +0300
-description: Don't plan a beach trip yet though. # Add post description (optional)
+description: Don't plan a beach trip yet though... # Add post description (optional)
 img: marsSurface.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 comments: true

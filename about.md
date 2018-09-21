@@ -5,8 +5,7 @@ permalink: /about/
 ---
 
 ## Why *Paper Boys*?
-Ever read science headlines and wonder, "Isn't there more behind the research?"  *Paper Boys* unravels the papers behind these latest headlines in science news. There are lots of excellent science podcasts and news sources, but *Paper Boys* offers something
-unique: two researchers' perspectives on the actual experiments behind the headlines. 
+Ever read science headlines and wonder, "Isn't there more behind the research?"  *Paper Boys* unravels the papers behind these latest headlines in science news. There are lots of excellent science podcasts and news sources, but *Paper Boys* uniquely offers two researchers' perspectives on the actual experiments behind the headlines. 
 
 ## About us
 

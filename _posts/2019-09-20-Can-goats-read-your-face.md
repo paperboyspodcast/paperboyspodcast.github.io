@@ -14,4 +14,4 @@ Next time you meet a goat, make sure you put your best face on...but be careful 
 
 [Check out the paper here](http://rsos.royalsocietypublishing.org/content/5/8/180491) 
 
-Questions or comments? Reach out to us: [Email](paperboyspod@gmail.com) [Twitter](https://twitter.com/PaperBoysPod)
+Questions or comments? Reach out to us: [Email](mailto:paperboyspod@gmail.com) [Twitter](https://twitter.com/PaperBoysPod)

@@ -14,4 +14,4 @@ Do you know how spiders fly? (Who even knew spiders could fly?) Charlie brings i
 
 [Check out the paper](https://www.cell.com/current-biology/fulltext/S0960-9822(18)30693-6)
 
-Questions or comments? Reach out to us: [Email](paperboyspod@gmail.com) [Twitter](https://twitter.com/PaperBoysPod)
+Questions or comments? Reach out to us: [Email](mailto:paperboyspod@gmail.com) [Twitter](https://twitter.com/PaperBoysPod)

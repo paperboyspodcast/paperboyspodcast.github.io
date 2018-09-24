@@ -1,5 +1,5 @@
 title: Paper Boys
-description: Paper Boys is a fun, interesting, enjoyable science podcast looking at the research behind popular news.
+description: Paper Boys is a science podcast that unravels the research papers behind the latest major headlines in science.
 permalink: ':title/'
 baseurl: ""#"/flexible-jekyll" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -8,7 +8,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Author Settings
 author: Paper Boys # add your name
 author-img: paperBoysLogo.png # add your photo
-about-author: Science papers <br> delivered weekly. # add description
+about-author: Science papers delivered weekly <br> New episodes every Thursday # add description
 social-twitter: paperboyspod # add your Twitter handle
 social-facebook: podcastpaperboys # add your Facebook handle
 #social-github: paperboyspodcast # add your Github handle

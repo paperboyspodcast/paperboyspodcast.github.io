@@ -14,4 +14,4 @@ US embassy workers abroad have been reporting strange sicknesses and hearing ima
 [Check out the paper here (PDF)](https://braincontrolhedge.files.wordpress.com/2013/05/auditory-system-response-to-radio-frequency-energy-technical-note.pdf) and [here](https://www.physiology.org/doi/pdf/10.1152/jappl.1962.17.4.689),
 with modern reports [here](https://ieeexplore.ieee.org/document/8186377/) and [here](https://www.ncbi.nlm.nih.gov/pubmed/14628312)
 
-Questions or comments? Reach out to us: [Email](paperboyspod@gmail.com) [Twitter](https://twitter.com/PaperBoysPod)
+Questions or comments? Reach out to us: [Email](mailto: paperboyspod@gmail.com) [Twitter](https://twitter.com/PaperBoysPod)

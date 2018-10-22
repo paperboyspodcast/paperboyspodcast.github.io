@@ -56,7 +56,7 @@
 
 {% if page.image %}
 <meta name="twitter:card"  content="summary_large_image">
-<meta name="twitter:image" content="https://raw.githubusercontent.com/paperboyspodcast/paperboyspodcast.github.io/master/assets/img/{{ page.image }}">
+<meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}/assets/img/{{ page.img }}">
 {% else %}
 <meta name="twitter:card"  content="summary">
 <meta name="twitter:image" content="{{ site.title_image }}">

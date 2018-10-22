@@ -2,7 +2,7 @@ title: Paper Boys
 description: Paper Boys is a science podcast that unravels the research papers behind the latest major headlines in science.
 permalink: ':title/'
 baseurl: ""#"/flexible-jekyll" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://paperboyspodcast.com" # the base hostname & protocol for your site, e.g. http://example.com
 #site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings

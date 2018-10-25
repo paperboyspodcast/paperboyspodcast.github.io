@@ -8,9 +8,11 @@ audio: mosquitos.html
 tags: [science, mosquitos, malaria, genetics] # add tag
 ---
 
-From Carl Sagan to Elon Musk, people have discussed making Mars more like Earth through terraforming. But are we sure that Mars even has the ingredients we need to transform it? Charlie brings in a paper that may answer the most important questions for Mars colonists.
+Did you know mosquitoes are the deadliest animal on Earth? (Neither did we!) With gene editing, it may be possible to eradicate these bugs that transmit diseases to humans...but is it a good idea to kill an entire species? In this episode, James dives into the science of how researchers aim to do this (and whether they should).
 {% include {{page.audio}}%}
 
-Check out the Wired news article [here](https://www.wired.com/story/co2-terraforming-mars/ ), the Nature paper [here](https://www.nature.com/articles/s41550-018-0529-6), and Carl Sagan's paper [here](https://www.sciencedirect.com/science/article/pii/001910357190131X).
+Check out the CNN news article [here](https://www.cnn.com/2018/09/25/health/crispr-gene-drive-mosquitoes-malaria-study/index.html), the Smithsonian paper [here](https://www.smithsonianmag.com/innovation/kill-all-mosquitos-180959069/#YUYorfVUZZ4BG2o9.99), and the Nature paper [here](https://www.nature.com/articles/nbt.4245#abstract).
+
+Also, [here's](https://www.nytimes.com/2018/10/05/science/groundcherries-crispr-gene-editing.html) an interesting article applying CRISPR to genetically modify ground cherries!
 
 Questions or comments? Reach out to us: [Email](mailto: paperboyspod@gmail.com) [Twitter](https://twitter.com/PaperBoysPod)

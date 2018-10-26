@@ -5,6 +5,9 @@ permalink: /gradhighlight/
 ---
 
 ## Grad Student Highlight
+Each week we highlight a graduate student to highlight their achievements and to bring a human touch to science that affects us all. 
+
+
 **Alex Barth**
 
 Ph.D. student studying inorganic chemistry at [Cal Tech](http://agapie.caltech.edu/).

@@ -9,7 +9,9 @@ Each week, we highlight a graduate student to highlight their achievements and t
 
 **Jacob Adams**
 
-Ph.D. student at MIT.
+Ph.D. student at MIT's Nuclear Science & Engineering Department.
+
+Jacob's research is really cool (like, -400 degrees farenheit cool). At these very low temperatures, certain materials exhibit super conductivity, a state where their electrical resistance vanishes. Super conductivity has broad applications in research like nuclear fusion and even measuring small changes in the magnetic fields of neurons in your brain. Jacob's research is investigating how to develop a micro cooling device that could bring these super cool temperatures to applications outside of the lab.
 
 Check out his interview in the episode [How many faces do you know?](http://www.paperboyspodcast.com/How-many-faces-do-you-know)
 

@@ -7,6 +7,13 @@ permalink: /gradhighlight/
 ## Grad Student Highlight
 Each week, we highlight a graduate student to highlight their achievements and to bring a human touch to science that affects us all. Hear about their work in their own words in the episodes linked below.
 
+**Jacob Adams**
+
+Ph.D. student at MIT.
+
+Check out his interview in the episode [How many faces do you know?](http://www.paperboyspodcast.com/How-many-faces-do-you-know)
+
+---------------------------------------------------------------------------------
 
 **Alex Barth**
 

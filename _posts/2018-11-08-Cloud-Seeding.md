@@ -5,7 +5,7 @@ date: 2018-11-08 00:00:00 +0300
 description: What does a phytoplankton virus have to do with the annual snowfall at a ski resort?... # Add post description (shows up as description on social media posts)
 img: clouds.jpg # Add image post (optional)
 audio: clouds.html
-tags: [science, mosquitos, malaria, genetics] # add tag
+tags: [science, openscience, clouds, weather] # add tag
 ---
 
 What does a phytoplankton virus have to do with the annual snowfall at a ski resort? It turns out they're more related than you think! James brings in two papers on cloud seeding that explore the ways scientists have been changing the weather since the 1940s.

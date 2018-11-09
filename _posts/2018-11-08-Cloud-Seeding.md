@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Scientists can change the weather
+title: Does cloud seeding work?
 date: 2018-11-08 00:00:00 +0300
 description: What does a phytoplankton virus have to do with the annual snowfall at a ski resort?... # Add post description (shows up as description on social media posts)
 img: clouds.jpg # Add image post (optional)

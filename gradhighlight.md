@@ -7,6 +7,18 @@ permalink: /gradhighlight/
 ## Grad Student Highlight
 Each week, we highlight a graduate student to highlight their achievements and to bring a human touch to science that affects us all. Hear about their work in their own words in the episodes linked below.
 
+**Susanna Harris**
+
+Ph.D. student in Microbiology University of North Carolina in Chapel Hill.
+
+Susanna's research seeks to understand how microbial communities and bacteria can protect plants and agriculture. Farmers have known for centuries that certain fields are better for raising crops, and in the the 1970's researchers found that beneficial bacteria in the soil may be one reason for this. One issue though is that these beneficial bacteria don't seem to perform as well outdoors as they do in the lab, and Susanna's investigating why. 
+
+In addition to her research, Susanna is active in the SciCommunity (@thescicommunity) to connect science communicators on social media, and she has also founded the online group PhDepression (@ph_d_epression) to increase conversation and break the stigma of mental illness in academia.
+
+Check out her interview in the episode [Is Oumuamua an alien spacecraft?](http://paperboyspodcast.com/Oumuamua/)
+
+---------------------------------------------------------------------------------
+
 **Jacob Adams**
 
 Ph.D. student at MIT's [Nuclear Science & Engineering Department](http://web.mit.edu/nse/).

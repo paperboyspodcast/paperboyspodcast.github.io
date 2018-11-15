@@ -17,4 +17,4 @@ Check out the CNN news article [here](https://www.cnn.com/2018/09/25/health/cris
 
 Also, [here's](https://www.nytimes.com/2018/10/05/science/groundcherries-crispr-gene-editing.html) an interesting article applying CRISPR to genetically modify ground cherries!
 
-Questions or comments? Reach out to us: [Email](mailto: paperboyspod@gmail.com) [Twitter](https://twitter.com/PaperBoysPod)
+Questions or comments? Reach out to us: [Email](mailto: paperboyspod@gmail.com) [Instagram](https://instagram.com/paperboyspod/) [Twitter](https://twitter.com/PaperBoysPod)

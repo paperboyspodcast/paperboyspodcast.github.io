@@ -14,4 +14,4 @@ Everyone knows about magnetic fields, but very few people know what they really 
 [Check out the paper here](https://aip.scitation.org/doi/10.1063/1.5044557). Also [watch the explosion here](https://www.youtube.com/watch?v=Hsu6FG_3adU) and [read the Newsweek article here](https://www.newsweek.com/record-breaking-magnetic-field-stronger-earth-1125817),
 with modern reports [here](https://ieeexplore.ieee.org/document/8186377/) and [here](https://www.ncbi.nlm.nih.gov/pubmed/14628312)
 
-Questions or comments? Reach out to us: [Email](mailto: paperboyspod@gmail.com) [Twitter](https://twitter.com/PaperBoysPod)
+Questions or comments? Reach out to us: [Email](mailto: paperboyspod@gmail.com) [Instagram](https://instagram.com/paperboyspod/) [Twitter](https://twitter.com/PaperBoysPod)

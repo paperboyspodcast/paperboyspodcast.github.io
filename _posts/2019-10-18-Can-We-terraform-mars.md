@@ -15,4 +15,4 @@ From Carl Sagan to Elon Musk, people have discussed making Mars more like Earth 
 
 Check out the Wired news article [here](https://www.wired.com/story/co2-terraforming-mars/ ), the Nature paper [here](https://www.nature.com/articles/s41550-018-0529-6), and Carl Sagan's paper [here](https://www.sciencedirect.com/science/article/pii/001910357190131X).
 
-Questions or comments? Reach out to us: [Email](mailto: paperboyspod@gmail.com) [Twitter](https://twitter.com/PaperBoysPod)
+Questions or comments? Reach out to us: [Email](mailto: paperboyspod@gmail.com) [Instagram](https://instagram.com/paperboyspod/) [Twitter](https://twitter.com/PaperBoysPod)

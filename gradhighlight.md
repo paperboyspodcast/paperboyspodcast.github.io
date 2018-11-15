@@ -8,7 +8,7 @@ permalink: /gradhighlight/
 Each week, we highlight a graduate student to highlight their achievements and to bring a human touch to science that affects us all. Hear about their work in their own words in the episodes linked below.
 
 **Susanna Harris**
-@SusannaLHarris
+[@SusannaLHarris](https://www.instagram.com/susannalharris/)
 
 Ph.D. student in Microbiology University of North Carolina in Chapel Hill.
 
@@ -31,6 +31,7 @@ Check out his interview in the episode [How many faces do you know?](http://www.
 ---------------------------------------------------------------------------------
 
 **Alex Barth**
+[@AlexTBarth](https://twitter.com/AlexTBarth)
 
 Ph.D. student studying inorganic chemistry at [Cal Tech](http://agapie.caltech.edu/).
 
@@ -40,6 +41,7 @@ Check out her interview in the episode [Should we kill all the mosquitos?](http:
 
 ---------------------------------------------------------------------------------
 **Jazmine Benjamin**
+[@J_I_Benjamin](https://twitter.com/J_I_Benjamin)
 
 Biomedical science Ph.D. student in [Dr. Elizabeth Sztul's lab](http://apps.medicine.uab.edu/facultyDirectory/FacultyData.asp?FID=7713) at the University of Alabama at Birmingham.
 

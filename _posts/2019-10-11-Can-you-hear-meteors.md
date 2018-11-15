@@ -13,4 +13,4 @@ When you wish upon a star, you'd be freaked out if you heard it falling. Witness
 
 Check out the popular news article [here](https://www.livescience.com/38651-meteor-sound-electrophonics-perseids.html), the original Nature paper [here](https://www.nature.com/articles/285464a0) and an alternative explanation recently published in Science [here](https://www.nature.com/articles/srep41251).
 
-Questions or comments? Reach out to us: [Email](mailto: paperboyspod@gmail.com) [Twitter](https://twitter.com/PaperBoysPod)
+Questions or comments? Reach out to us: [Email](mailto: paperboyspod@gmail.com) [Instagram](https://instagram.com/paperboyspod/) [Twitter](https://twitter.com/PaperBoysPod)

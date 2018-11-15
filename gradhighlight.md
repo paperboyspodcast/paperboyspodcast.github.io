@@ -8,6 +8,7 @@ permalink: /gradhighlight/
 Each week, we highlight a graduate student to highlight their achievements and to bring a human touch to science that affects us all. Hear about their work in their own words in the episodes linked below.
 
 **Susanna Harris**
+@SusannaLHarris
 
 Ph.D. student in Microbiology University of North Carolina in Chapel Hill.
 

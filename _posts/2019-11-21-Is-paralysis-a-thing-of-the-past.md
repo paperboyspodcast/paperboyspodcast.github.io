@@ -8,7 +8,9 @@ audio: paralysis.html
 tags: [science, paralysis, rehab, neuroscience] # add tag
 ---
 
-Most paralysis patients are told that if they can't regain the ability to walk in 6 months they will never walk again. Then how did three research teams get paralyzed patients walking after several years in the wheelchair? James brings in a paper on spinal stimulation that makes you feel like we are living in the future.{% include {{page.audio}}%}
+Most paralysis patients are told that if they can't regain the ability to walk in 6 months they will never walk again. Then how did three research teams get paralyzed patients walking after several years in the wheelchair? James brings in a paper on spinal stimulation that makes you feel like we are living in the future.
+
+{% include {{page.audio}}%}
 
 [**Grad Student Highlight**](http://paperboyspodcast.com/gradhighlight/): Mayrena Hernandez (@mayrenaisamar) from the University of Wisconsin-Madison Injury in Sport Lab shares her research!
 

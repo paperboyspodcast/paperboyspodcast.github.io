@@ -7,6 +7,15 @@ permalink: /gradhighlight/
 ## Grad Student Highlight
 Each week, we highlight a graduate student to highlight their achievements and to bring a human touch to science that affects us all. Hear about their work in their own words in the episodes linked below.
 
+**Mayrena Hernandez**
+[@mayrenaisamar](https://www.instagram.com/mayrenaisamar/)
+
+Ph.D. student in biomechanics at the University of Wisconsin in Madison.
+
+Maryena's research builds off her background in athletic training to explore the processes of rehabilitation to better understand why lower extermity injuries occur, and how rehab can be used to reduce reoccurence. She also leverages her background in public health to investigate how socioeconomic status can influence sport specialization and health care equity. Her research has found that youth who are highly specialized in a single sport are 81% more likely to experience an over-use injury.
+
+CHeck out her interview in the episode [Is paralysis a thing of the past?](http://paperboyspodcast.com/Is-paralysis-a-thing-of-the-past/)
+
 **Susanna Harris**
 [@SusannaLHarris](https://www.instagram.com/susannalharris/)
 

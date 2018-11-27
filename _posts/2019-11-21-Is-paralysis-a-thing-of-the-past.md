@@ -16,6 +16,6 @@ Most paralysis patients are told that if they can't regain the ability to walk i
 
 Check out the Nature paper [here](https://www.nature.com/articles/s41586-018-0649-2), the video posted on CNN [here](https://www.cnn.com/2018/11/01/health/spinal-cord-walk-research-intl/index.html), and the NY Times article [here](https://www.nytimes.com/2018/10/31/health/spine-surgery-paralysis.html?rref=collection%2Fsectioncollection%2Fscience).
 
-News article + video about transcutaneous spinal cord stimulation at the University of Washington [here] (http://uwin.washington.edu/2018/11/21/chet-moritz-soshi-samejima-king5-spinal-cord-rehabilitation/)
+News article + video about transcutaneous spinal cord stimulation at the University of Washington [here](http://uwin.washington.edu/2018/11/21/chet-moritz-soshi-samejima-king5-spinal-cord-rehabilitation/)
 
 Questions or comments? Reach out to us: [Email](mailto: paperboyspod@gmail.com) [Twitter](https://twitter.com/PaperBoysPod) [Instagram](https://www.instagram.com/paperboyspod/)

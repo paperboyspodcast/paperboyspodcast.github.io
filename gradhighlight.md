@@ -7,6 +7,15 @@ permalink: /gradhighlight/
 ## Grad Student Highlight
 Each week, we highlight a graduate student to highlight their achievements and to bring a human touch to science that affects us all. Hear about their work in their own words in the episodes linked below.
 
+**EL Meszaros**
+[@IAStranger](https://www.instagram.com/IAStranger/)
+
+PhD student at Brown University in the History of the Exact Sciences in Antiquity.
+
+EL's research studies the formation, application, transmission, and impact of mathematics, astronomy, and physics in the ancient world, particularly ancient Mesopotamia and the Greek and Latin speaking world. She entered this field by looking at how the language that we use to describe science, particularly metaphor, changes over time and in translation, in the hopes that these changes can tell us something about how scientific concepts were understood in their time. Situating ancient science like this also sheds light on how widespread scientific understanding was and how it overlaps and interacts with other ways of understanding the world.
+
+Check out her interview in the episode [How hard was the InSight landing on Mars?]((http://paperboyspodcast.com/InSight/)
+
 **Mayrena Hernandez**
 [@mayrenaisamar](https://www.instagram.com/mayrenaisamar/)
 

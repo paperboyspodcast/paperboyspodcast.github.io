@@ -8,7 +8,7 @@ audio: Turing.html
 tags: [AI, Robots, Turing, science] # add tag
 ---
 
-hYpothetical scenario: you and a robot are before a judge who cannot see you. You each must pick one word from the english dictionary to give to the judge. Based on these two words, the judge will decide who is human, and who is the robot. The catch--the one deemed a robot is executed. What one word do you choose? 
+Hypothetical scenario: you and a robot are before a judge who cannot see you. You each must pick one word from the english dictionary to give to the judge. Based on these two words, the judge will decide who is human, and who is the robot. The catch--the one deemed a robot is executed. What one word do you choose? 
 James brings in a fascinating paper on the Turing Test (a famous computer science thought experiment) and a completely new paradigm for thinking of artificial intelligence...and tune in to find out the disgusting word Charlie picked!
 
 {% include {{page.audio}}%}

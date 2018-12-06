@@ -3,12 +3,12 @@ layout: post
 title: Could you prove you're human in one word?
 date: 2018-12-06 00:00:00 +0300
 description: What one word most distinguishes humans from Artificial Intelligence?... # Add post description (shows up as description on social media posts)
-img: Turing.png # Add image post (optional)
+img: Turing.jpg # Add image post (optional)
 audio: Turing.html
 tags: [AI, Robots, Turing, science] # add tag
 ---
 
-ypothetical scenario: you and a robot are before a judge who cannot see you. You each must pick one word from the english dictionary to give to the judge. Based on these two words, the judge will decide who is human, and who is the robot. The catch--the one deemed a robot is executed. What one word do you choose? 
+hYpothetical scenario: you and a robot are before a judge who cannot see you. You each must pick one word from the english dictionary to give to the judge. Based on these two words, the judge will decide who is human, and who is the robot. The catch--the one deemed a robot is executed. What one word do you choose? 
 James brings in a fascinating paper on the Turing Test (a famous computer science thought experiment) and a completely new paradigm for thinking of artificial intelligence...and tune in to find out the disgusting word Charlie picked!
 
 {% include {{page.audio}}%}

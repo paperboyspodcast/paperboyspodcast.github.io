@@ -10,7 +10,7 @@ Each week, we highlight a graduate student to highlight their achievements and t
 **Megan Raden**
 [@psych.and.coding](https://www.instagram.com/psych.and.coding)
 
-PhD student studying Cognitive Science.
+Ph.D. student studying Cognitive Science.
 
 Megan's research is searching for the cognitive processes and mechanisms that contribute to and are necessary for successful problem solving. She's asking, "What enables high achievers to find problems to difficult solutions? And what's preventing low achievers from finding those same solutions?" Further, she recommends looking into cognitive science for anyone who teaches or is just looking to improve their problem solving skills!
 
@@ -19,7 +19,7 @@ Check out her interview in the episode [Could you prove you're human in one word
 **EL Meszaros**
 [@IAStranger](https://www.instagram.com/IAStranger/)
 
-PhD student at Brown University in the History of the Exact Sciences in Antiquity.
+Ph.D. student at Brown University in the History of the Exact Sciences in Antiquity.
 
 EL's research studies the formation, application, transmission, and impact of mathematics, astronomy, and physics in the ancient world, particularly ancient Mesopotamia and the Greek and Latin speaking world. She entered this field by looking at how the language that we use to describe science, particularly metaphor, changes over time and in translation, in the hopes that these changes can tell us something about how scientific concepts were understood in their time. Situating ancient science like this also sheds light on how widespread scientific understanding was and how it overlaps and interacts with other ways of understanding the world.
 

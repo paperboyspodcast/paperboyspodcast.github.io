@@ -7,6 +7,15 @@ permalink: /gradhighlight/
 ## Grad Student Highlight
 Each week, we highlight a graduate student to highlight their achievements and to bring a human touch to science that affects us all. Hear about their work in their own words in the episodes linked below.
 
+**Megan Raden**
+[@psych.and.coding](https://www.instagram.com/psych.and.coding)
+
+PhD student studying Cognitive Science.
+
+Megan's research is searching for the cognitive processes and mechanisms that contribute to and are necessary for successful problem solving. She's asking, "What enables high achievers to find problems to difficult solutions? And what's preventing low achievers from finding those same solutions?" Further, she recommendgs cognitive science for anyone who teaches or is looking to improve their problem solving skills!
+
+Check out her interview in the episode [Could you prove you're human in one word?](http://paperboyspodcast.com/Minimal-Turing-Test/)
+
 **EL Meszaros**
 [@IAStranger](https://www.instagram.com/IAStranger/)
 

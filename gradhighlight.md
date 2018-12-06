@@ -12,7 +12,7 @@ Each week, we highlight a graduate student to highlight their achievements and t
 
 PhD student studying Cognitive Science.
 
-Megan's research is searching for the cognitive processes and mechanisms that contribute to and are necessary for successful problem solving. She's asking, "What enables high achievers to find problems to difficult solutions? And what's preventing low achievers from finding those same solutions?" Further, she recommendgs cognitive science for anyone who teaches or is looking to improve their problem solving skills!
+Megan's research is searching for the cognitive processes and mechanisms that contribute to and are necessary for successful problem solving. She's asking, "What enables high achievers to find problems to difficult solutions? And what's preventing low achievers from finding those same solutions?" Further, she recommends looking into cognitive science for anyone who teaches or is just looking to improve their problem solving skills!
 
 Check out her interview in the episode [Could you prove you're human in one word?](http://paperboyspodcast.com/Minimal-Turing-Test/)
 

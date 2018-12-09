@@ -7,6 +7,8 @@ permalink: /gradhighlight/
 ## Grad Student Highlight
 Each week, we highlight a graduate student to highlight their achievements and to bring a human touch to science that affects us all. Hear about their work in their own words in the episodes linked below.
 
+---------------------------------------------------------------------------------
+
 **Megan Raden**
 [@psych.and.coding](https://www.instagram.com/psych.and.coding)
 
@@ -15,6 +17,8 @@ Ph.D. student studying Cognitive Science.
 Megan's research is searching for the cognitive processes and mechanisms that contribute to and are necessary for successful problem solving. She's asking, "What enables high achievers to find problems to difficult solutions? And what's preventing low achievers from finding those same solutions?" Further, she recommends looking into cognitive science for anyone who teaches or is just looking to improve their problem solving skills!
 
 Check out her interview in the episode [Could you prove you're human in one word?](http://paperboyspodcast.com/Minimal-Turing-Test/)
+
+---------------------------------------------------------------------------------
 
 **EL Meszaros**
 [@IAStranger](https://www.instagram.com/IAStranger/)
@@ -25,6 +29,8 @@ EL's research studies the formation, application, transmission, and impact of ma
 
 Check out her interview in the episode [How hard was the InSight landing on Mars?](http://paperboyspodcast.com/InSight/)
 
+---------------------------------------------------------------------------------
+
 **Mayrena Hernandez**
 [@mayrenaisamar](https://www.instagram.com/mayrenaisamar/)
 
@@ -33,6 +39,8 @@ Ph.D. student in biomechanics at the University of Wisconsin in Madison.
 Maryena's research builds off her background in athletic training to explore the processes of rehabilitation to better understand why lower extermity injuries occur, and how rehab can be used to reduce reoccurence. She also leverages her background in public health to investigate how socioeconomic status can influence sport specialization and health care equity. Her research has found that youth who are highly specialized in a single sport are 81% more likely to experience an over-use injury.
 
 Check out her interview in the episode [Is paralysis a thing of the past?](http://paperboyspodcast.com/Is-paralysis-a-thing-of-the-past/)
+
+---------------------------------------------------------------------------------
 
 **Susanna Harris**
 [@SusannaLHarris](https://www.instagram.com/susannalharris/)

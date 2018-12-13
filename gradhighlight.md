@@ -9,9 +9,8 @@ Each week, we highlight a graduate student to highlight their achievements and t
 
 ---------------------------------------------------------------------------------
 **Justin Penn**
-[University of Washington School of Oceanography](https://www.ocean.washington.edu/home/Justin%20Penn)
 
-Ph.D. student studying chemical oceanography.
+Ph.D. student studying chemical oceanography at the [University of Washington School of Oceanography](https://www.ocean.washington.edu/home/Justin%20Penn)
 
 Justin's research focuses on the mechanisms that drive changes in Earth's climates. It turns out his models are so good, they could accurately account for the meteorological changes that wiped out nearly 95% of Earth's species 250 million years ago! This research earned him a spot as top dawg--ahem, sorry, first author--on a coveted Science paper entitled "Temperature-dependent hypoxia explains biogeography and severity of end-Permian marine mass extinction" and published in Dec. 2018.
 

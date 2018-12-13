@@ -8,6 +8,15 @@ permalink: /gradhighlight/
 Each week, we highlight a graduate student to highlight their achievements and to bring a human touch to science that affects us all. Hear about their work in their own words in the episodes linked below.
 
 ---------------------------------------------------------------------------------
+**Justin Penn**
+[University of Washington School of Oceanography](https://www.ocean.washington.edu/home/Justin%20Penn)
+
+Ph.D. student studying chemical oceanography.
+
+Justin's research focuses on the mechanisms that drive changes in Earth's climates. It turns out his models are so good, they could accurately account for the meteorological changes that wiped out nearly 95% of Earth's species 250 million years ago! This research earned him a spot as top dawg--ahem, sorry, first author--on a coveted Science paper entitled "Temperature-dependent hypoxia explains biogeography and severity of end-Permian marine mass extinction" and published in Dec. 2018.
+
+Check out his interview in the episode [Did climate change cause the "Great Dying"??](http://paperboyspodcast.com/Great-Dying/)
+---------------------------------------------------------------------------------
 
 **Megan Raden**
 [@psych.and.coding](https://www.instagram.com/psych.and.coding)

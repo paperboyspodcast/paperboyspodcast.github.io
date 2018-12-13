@@ -15,7 +15,8 @@ Ph.D. student studying chemical oceanography.
 
 Justin's research focuses on the mechanisms that drive changes in Earth's climates. It turns out his models are so good, they could accurately account for the meteorological changes that wiped out nearly 95% of Earth's species 250 million years ago! This research earned him a spot as top dawg--ahem, sorry, first author--on a coveted Science paper entitled "Temperature-dependent hypoxia explains biogeography and severity of end-Permian marine mass extinction" and published in Dec. 2018.
 
-Check out his interview in the episode [Did climate change cause the "Great Dying"??](http://paperboyspodcast.com/Great-Dying/)
+Check out his interview in the episode [Did climate change cause the "Great Dying"?](http://paperboyspodcast.com/Great-Dying/)
+
 ---------------------------------------------------------------------------------
 
 **Megan Raden**

@@ -8,6 +8,14 @@ permalink: /gradhighlight/
 Each week, we highlight a graduate student to highlight their achievements and to bring a human touch to science that affects us all. Hear about their work in their own words in the episodes linked below.
 
 ---------------------------------------------------------------------------------
+**Anna Sheppard**
+Ph.D. student studying electric propulsion in the Dept. of Aeronautics & Astronautics at the University of Washington
+
+Anna's is a legitimate rocket scientist who's looking into new techniques for improving electric propulsion that could one day fly in space. Traditional electric propulsion thrusters that run using Noble Gases for propellants, however, Anna's investigating whether molecular propellants could one day be used instead. If so, future space expeditions to places like Mars may someday use resources on the planet, like ammonia, as a propellant, enabling us to explore deeper into the solar system for longer periods of time.
+
+Check out her interview in the episode [How does an "ion plane" actually fly?](https://pinecast.com/dashboard/podcast/paperboys/episode/4bd080da-41ec-46c1-96ad-02608179ad6d)
+
+---------------------------------------------------------------------------------
 **Justin Penn**
 
 Ph.D. student studying chemical oceanography at the [University of Washington School of Oceanography](https://www.ocean.washington.edu/home/Justin%20Penn)

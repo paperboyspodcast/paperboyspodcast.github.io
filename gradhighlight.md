@@ -8,12 +8,20 @@ permalink: /gradhighlight/
 Each week, we highlight a graduate student to highlight their achievements and to bring a human touch to science that affects us all. Hear about their work in their own words in the episodes linked below.
 
 ---------------------------------------------------------------------------------
+**Andrew Makdisi**
+Ph.D. student studying civil engineering at the University of Washington
+
+Andrew's research is focused on understanding how soil liquefies during an earthquake. This effect can have disastrous consequences on infrastructure, such as buildings, dams, and gas pipelines. One cool thing about his research is that while it is deeply rooted in interesting theory, it has many practical effects that could save lives in the event of a natural disaster.
+
+Check out his interview in the episode [Does negative mass explain dark matter?](http://paperboyspodcast.com/Negative-mass)
+
+---------------------------------------------------------------------------------
 **Anna Sheppard**
 Ph.D. student studying electric propulsion in the Dept. of Aeronautics & Astronautics at the University of Washington
 
 Anna's is a legitimate rocket scientist who's looking into new techniques for improving electric propulsion that could one day fly in space. Traditional electric propulsion thrusters that run using Noble Gases for propellants, however, Anna's investigating whether molecular propellants could one day be used instead. If so, future space expeditions to places like Mars may someday use resources on the planet, like ammonia, as a propellant, enabling us to explore deeper into the solar system for longer periods of time.
 
-Check out her interview in the episode [How does an "ion plane" actually fly?](https://pinecast.com/dashboard/podcast/paperboys/episode/4bd080da-41ec-46c1-96ad-02608179ad6d)
+Check out her interview in the episode [How does an "ion plane" actually fly?](http://paperboyspodcast.com/Ion-plane)
 
 ---------------------------------------------------------------------------------
 **Justin Penn**

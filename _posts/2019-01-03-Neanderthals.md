@@ -1,10 +1,10 @@
 ---
 layout: post
-title: How often did humans breed with Neanderthals??
+title: How often did humans breed with Neanderthals?
 date: 2019-01-03 00:00:00 +0300
 description: Did you know that humans share 2% of their DNA with Neanderthals?... # Add post description (shows up as description on social media posts)
-img: neanderthal.jpg # Add image post (optional)
-audio: neanderthal.html
+img: neanderthals.jpg # Add image post (optional)
+audio: neanderthals.html
 tags: [neanderthal, cavemen, evolution, science] # add tag
 ---
 

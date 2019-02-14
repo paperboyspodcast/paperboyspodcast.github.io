@@ -19,5 +19,3 @@ Check out the journal paper (with audio clips in the Supplementary Material) in 
 And [here](https://www.youtube.com/watch?v=4oTW_Jt0EVE) is cool research from UC Berkeley that reconstructs images brain signals measured using fMRI.
 
 Questions or comments? Reach out to us: [Email](mailto: paperboyspod@gmail.com) [Instagram](https://www.instagram.com/paperboyspod/) [Twitter](https://twitter.com/PaperBoysPod)
-
-Photo Credit: NASA/JPL-Caltech/MSSS/Jason Major

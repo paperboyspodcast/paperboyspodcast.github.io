@@ -53,17 +53,22 @@
 {% else %}
 <meta name="twitter:description" content="{{ site.description }}">
 {% endif %}
-
-{% if page.img %}
-<meta name="twitter:card"  content="summary">
-<meta name="twitter:image" content="http://paperboyspodcast.com/assets/img/{{page.img}}">
+								 
+{% if page.audio %}
+	<meta name="twitter:card" content="player" />
+	<meta name="twitter:image" content="https://yoursite.com/example.png" />
+	<meta name="twitter:player" content="http://paperboyspodcast.com/{{page.audio}}" />
+	<meta name="twitter:player:width" content="480" />
+	<meta name="twitter:player:height" content="480" />					  
+{% else if page.img %}
+	<meta name="twitter:card"  content="summary"/>
+	<meta name="twitter:image" content="http://paperboyspodcast.com/assets/img/{{page.img}}"/>					  
 {% else %}
-<meta name="twitter:card"  content="summary">
-<meta name="twitter:image" content="http://paperboyspodcast.com/assets/img/brainage.jpg">
+	<meta name="twitter:card"  content="summary"/>
+	<meta name="twitter:image" content="http://paperboyspodcast.com/assets/img/paperBoysLogo.png"/>								 
 {% endif %}
-							   
-
-
+		
+	
 <meta name="description" content="{{ page.description }}">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">

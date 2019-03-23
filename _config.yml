@@ -1,5 +1,5 @@
-title: Paper Boys - a science podcast
-description: Each week, the Paper Boys unravel the research papers behind the latest major headlines in science.
+title: Paper Boys
+description: A science podcast that unravels the research papers behind the latest science headlines.
 permalink: ':title/'
 baseurl: "" #"/flexible-jekyll" # the subpath of your site, e.g. /blog
 url: "http://paperboyspodcast.com" # the base hostname & protocol for your site, e.g. http://example.com

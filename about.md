@@ -9,7 +9,7 @@ Do you ever read science news and wonder, "There's got to be more to this resear
 
 ## About us
 
-![Study break](JamesAndCharlie.jpg "James (left) and Charlie (right) on their way to climbing Mt. Ruth")
+#![Study break](JamesAndCharlie.jpg "James (left) and Charlie (right) on their way to climbing Mt. Ruth")
 
 I'm **Charlie**, a PhD student studying plasma physics and aerospace engineering. My research is aimed at using plasma as a propellant in rockets and as a tool for slowing satellites down when travelling
 to other planets. A true space nerd, I got into this field out a passion for exploring the solar system (my favorite rover is Curiosity, obviously). I still want to be an astronaut when I grow up.

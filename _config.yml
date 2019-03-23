@@ -7,7 +7,7 @@ site-twitter: paperboyspod #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Paper Boys # add your name
-author-img: assets/img/paperBoysLogo.png # add your photo
+author-img: paperBoysLogo.png # add your photo
 about-author: Science papers <br> delivered weekly! # add description
 social-twitter: paperboyspod # add your Twitter handle
 social-facebook: podcastpaperboys # add your Facebook handle

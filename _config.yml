@@ -3,7 +3,7 @@ description: Paper Boys is a science podcast that unravels the research papers b
 permalink: ':title/'
 baseurl: "" #"/flexible-jekyll" # the subpath of your site, e.g. /blog
 url: "http://paperboyspodcast.com" # the base hostname & protocol for your site, e.g. http://example.com
-#site-twitter: #if your site has a twitter account, enter it here
+site-twitter: paperboyspod #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Paper Boys # add your name
@@ -28,6 +28,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jemoji
+  - jekyll-seo-tag
 
 paginate: 8
 paginate_path: "/page/:num"

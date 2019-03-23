@@ -9,8 +9,6 @@ Do you ever read science news and wonder, "There's got to be more to this resear
 
 ## About us
 
-![James and Charlie](/assets/img/JamesAndCharlie.JPG)
-
 <img src="/assets/img/JamesAndCharlie.JPG" alt="James and Charlie" width="700"/>
 
 I'm **Charlie**, a PhD student studying plasma physics and aerospace engineering. My research is aimed at using plasma as a propellant in rockets and as a tool for slowing satellites down when travelling

@@ -1,6 +1,53 @@
 /*! normalize.css v7.0.0 | MIT License | github.com/necolas/normalize.css */
 /* Document
    ========================================================================== */
+/* Subscribe buttons */
+.subscribe {
+    margin: 0 auto 0 auto;
+}
+
+.subscribe ul {
+    margin: 20px 0 0 0;
+    text-align: center;
+}
+
+.subscribe ul li {
+    display: inline;
+    margin: 5px 5px 0 0
+}
+
+.subscribe ul li a {
+    text-decoration: none;
+}
+
+.contact ul li svg {
+    width: 30px;
+    height: 30px;
+}
+
+.contact .itunes svg {
+    width: 160px;
+    height: 50px
+}
+
+.contact .spotify svg {
+    fill: #1ED760;
+}
+
+.contact .overcast svg {
+    fill: #FC7E0F;
+}
+
+.contact .googleplay svg {
+    fill: #607D8B;
+}
+
+.contact .rss svg {
+    fill: #FFA500;
+}
+
+
+
 /**
  * 1. Correct the line height in all browsers.
  * 2. Prevent adjustments of font size after orientation changes in
@@ -1070,7 +1117,8 @@ table tfoot td {
 
 .contact ul li {
   display: inline-block;
-  margin-left: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
 }
 
 .contact ul li:first-child {

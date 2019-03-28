@@ -3,7 +3,7 @@ layout: post
 title: Does space affect male and female astronauts differently?
 date: 2019-03-28 00:00:00 +0300
 description: Outer space poses many health risks to humans, but do men and women experience different effects?... # Add post description (shows up as description on social media posts)
-img: astrohealth.jpg # Add image post (optional)
+img: astrohealth.jpeg # Add image post (optional)
 audio: astrohealth.html
 tags: [nasa, space, science] # add tag
 ---

@@ -2,10 +2,10 @@
 layout: post
 title: Are eggs really bad for you?
 date: 2019-04-04 00:00:00 +0300
-description: Outer space poses many health risks to humans, but do men and women experience different effects?... # Add post description (shows up as description on social media posts)
-img: astrohealth.jpeg # Add image post (optional)
-audio: astrohealth.html
-tags: [nasa, space, science] # add tag
+description: Are eggs really as good or bad for you as news sources say?... # Add post description (shows up as description on social media posts)
+img: eggs.png # Add image post (optional)
+audio: eggs.html
+tags: [diet, eggs, science] # add tag
 ---
 
 It's one of the most controversial topics in all of diet science: are eggs good or bad for you? It seems there are contradicting studies all the time - one day eggs are a superfood, the next day eggs will give you a heart attack. Egg whites are fine...or was it the yolks? All this competing information can be hard to keep track of, and recently a study was released attempting to answer the question once and for all. The study, published in the Journal of the American Medical Association, looked at nearly 30,000 people over several decades to determine if there is a link between egg consumption and cardiovascular disease or death. Charlie cracks this one open and James reconsiders his eating habits on this week's episode.

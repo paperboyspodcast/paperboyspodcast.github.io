@@ -2,7 +2,7 @@
 layout: post
 title: Are eggs really bad for you?
 date: 2019-04-04 00:00:00 +0300
-description: It's one of the most controversial topics in all of diet science: are eggs good or bad for you?... # Add post description (shows up as description on social media posts)
+description: "Are eggs good or bad for you?" It's one of the most controversial topics in all of diet science... # Add post description (shows up as description on social media posts)
 img: eggs.png # Add image post (optional)
 audio: eggs.html
 tags: [diet, eggs, science] # add tag

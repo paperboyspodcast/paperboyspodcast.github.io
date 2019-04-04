@@ -12,6 +12,6 @@ It's one of the most controversial topics in all of diet science: are eggs good 
 
 {% include {{page.audio}}%}
 
-Check out the research in the Journal of Women's Health [here](https://www.liebertpub.com/toc/jwh/23/11) and the NASA article and infographic [here](https://www.liebertpub.com/toc/jwh/23/11). 
+Check out the research in JAMA [here](https://jamanetwork-com.offcampus.lib.washington.edu/journals/jama/fullarticle/2728487?resultClick=1) and the Times article [here](http://time.com/5551508/are-eggs-bad-for-you/). 
 
 Questions or comments? Reach out to us: [Email](mailto: paperboyspod@gmail.com) [Instagram](https://www.instagram.com/paperboyspod/) [Twitter](https://twitter.com/PaperBoysPod)

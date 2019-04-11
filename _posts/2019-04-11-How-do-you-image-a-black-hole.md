@@ -3,7 +3,7 @@ layout: post
 title: How do you image a black hole?
 date: 2019-04-11 00:00:00 +0300
 description: The first-ever picture of a black hole was published. How did the Event Horizon Telescope manage to take this picture?... # Add post description (shows up as description on social media posts)
-img: blackhole.jpeg # Add image post (optional)
+img: blackhole.jpg # Add image post (optional)
 audio: blackhole.html
 tags: [universe, space, black hole] # add tag
 ---

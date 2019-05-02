@@ -2,7 +2,7 @@
 layout: post
 title: Is there a wrong side of the time zone?
 date: 2019-05-02 00:00:00 +0300
-description: Daylight Savings Time gets a bad rap every year when it's time to turn the clocks forward, it's bad for your health, it's bad for the economy...but DST has a friend no one warned you about: sunset time. ... # Add post description (shows up as description on social media posts)
+description: Daylight Savings Time gets a bad rap every year when it's time to turn the clocks forward, but DST has a friend no one warned you about... # Add post description (shows up as description on social media posts)
 img: timezones.png # Add image post (optional)
 audio: timezones.html
 tags: [time zone, health, sleep] # add tag

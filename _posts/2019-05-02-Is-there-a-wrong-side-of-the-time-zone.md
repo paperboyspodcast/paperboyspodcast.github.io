@@ -12,6 +12,6 @@ Daylight Savings Time gets a bad rap every year when it's time to turn the clock
 
 {% include {{page.audio}}%}
 
-Check out the paper in the Journal of Health Economics [here](https://www.sciencedirect.com/science/article/pii/S0167629618309718) and the Washington Post article [here](https://www.sciencedirect.com/science/article/pii/S0167629618309718).
+Check out the paper in the Journal of Health Economics [here](https://www.sciencedirect.com/science/article/pii/S0167629618309718) and the Washington Post article [here](https://www.washingtonpost.com/business/2019/04/19/how-living-wrong-side-time-zone-can-be-hazardous-your-health/?utm_source=pocket-newtab&utm_term=.c5210b75a1e8).
 
 Questions or comments? Reach out to us: [Email](mailto: paperboyspod@gmail.com) [Instagram](https://www.instagram.com/paperboyspod/) [Twitter](https://twitter.com/PaperBoysPod)

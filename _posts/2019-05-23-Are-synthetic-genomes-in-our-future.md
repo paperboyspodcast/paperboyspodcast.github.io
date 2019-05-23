@@ -12,6 +12,8 @@ A huge breakthrough of the last few decades is our ability to sequence genomes -
 
 {% include {{page.audio}}%}
 
-Check out the paper in Nature Geosciences [here](https://www.nature.com/articles/s41561-019-0362-2) and the National Geographic article [here](https://www.nature.com/articles/s41561-019-0362-2).
+Check out the paper in Nature [here](https://www.nature.com/articles/s41586-019-1192-5) and the Stat News article [here](https://www.statnews.com/2019/05/15/recoded-bacteria-genome-made-from-scratch/).
+
+And of course the famous Jeff Goldbloom line from Jurassic Park [here](https://www.youtube.com/watch?v=dMjQ3hA9mEA).
 
 Questions or comments? Reach out to us: [Email](mailto: paperboyspod@gmail.com) [Instagram](https://www.instagram.com/paperboyspod/) [Twitter](https://twitter.com/PaperBoysPod)

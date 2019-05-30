@@ -3,7 +3,7 @@ layout: post
 title: How deep does bomb carbon go?
 date: 2019-05-30 00:00:00 +0300
 description: How deep must we go in the ocean before we no longer see human traces? # Add post description (shows up as description on social media posts)
-img: bombcarbon.jpg # Add image post (optional)
+img: bombcarbon.jpeg # Add image post (optional)
 audio: bombcarbon.html
 tags: [carbon, oceans, life] # add tag
 ---

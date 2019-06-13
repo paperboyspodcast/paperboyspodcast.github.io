@@ -14,8 +14,7 @@ Humans love to test their limits. Some people run marathons, race triathlons, or
 
 Check out the paper from Science Advances [here](https://advances.sciencemag.org/content/5/6/eaaw0341/tab-pdf) and the Science Magazine article [here](https://www.sciencemag.org/news/2019/06/study-marathon-runners-reveals-hard-limit-human-endurance)
 
-Here's a copy of the plot showing the hwo sustained metabolic rate changes with respect to event duration: 
-![ratechange](https://github.com/paperboyspodcast/paperboyspodcast.github.io/tree/master/assets/img/pageimg/metabolicrate.PNG "Sustained Metabolic Rate vs. Event Duration")
+Here's a copy of the plot showing the hwo sustained metabolic rate changes with respect to event duration:![ratechange](https://github.com/paperboyspodcast/paperboyspodcast.github.io/tree/master/assets/img/pageimg/metabolicrate.PNG "Sustained Metabolic Rate vs. Event Duration")
 
 
 Questions or comments? Reach out to us: [Email](mailto: paperboyspod@gmail.com) [Instagram](https://www.instagram.com/paperboyspod/) [Twitter](https://twitter.com/PaperBoysPod)

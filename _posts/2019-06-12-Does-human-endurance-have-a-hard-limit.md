@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How can we quantify the limits of human endurance?
+title: Does human endurance have a hard limit?
 date: 2019-06-13 00:00:00 +0300
 description: Just how much energy can the human body exert? # Add post description (shows up as description on social media posts)
 img: humanlimit.jpg # Add image post (optional)

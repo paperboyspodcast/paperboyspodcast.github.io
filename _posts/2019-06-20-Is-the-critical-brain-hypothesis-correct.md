@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is the Critical Brain Hypothesis correct?
+title: Is the Critical Brain Hypothesis Correct?
 date: 2019-06-20 00:00:00 +0300
 description: Could radiation from stars have prompted ancient humans to walk upright? # Add post description (shows up as description on social media posts)
 img: criticalbrain.jpg # Add image post (optional)

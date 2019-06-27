@@ -12,6 +12,8 @@ Researchers have long been puzzled about how human language evolved. Humans’ a
 
 {% include {{page.audio}}%}
 
-Check out the paper from the Physical Review Letters, available [here](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.208101) and the Quanta Magazine article [here](https://www.quantamagazine.org/do-brains-operate-at-a-tipping-point-new-clues-and-complications-20190610/)
+Check out the paper from Current Biology, available [here](https://www.cell.com/current-biology/fulltext/S0960-9822(19)30685-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982219306852%3Fshowall%3Dtrue) and the BBC article [here](https://www.bbc.com/news/uk-scotland-edinburgh-east-fife-48706251)
+
+And of course, watch videos of seals singing [here](https://www.youtube.com/watch?v=BLNzK19179o), [here](https://youtu.be/AMD2TwRvuoU?t=5), and [here](https://www.cell.com/cms/10.1016/j.cub.2019.05.071/attachment/62d0bba1-4c7c-4ba2-86db-8fe070d025a1/mmc4).
 
 Questions or comments? Reach out to us: [Email](mailto: paperboyspod@gmail.com) [Instagram](https://www.instagram.com/paperboyspod/) [Twitter](https://twitter.com/PaperBoysPod)

@@ -8,6 +8,14 @@ permalink: /gradhighlight/
 Each week, we highlight a graduate student to highlight their achievements and to bring a human touch to science that affects us all. Hear about their work in their own words in the episodes linked below.
 
 ---------------------------------------------------------------------------------
+**Meghan Chandarana**
+Ph.D. student studying robotics at Carnegie Mellon University
+
+Meghan's research aims to develop interaction and prediction models for large robot swarms that can be used by human operators to more effectively define mission objectives, assign resources and monitor the vehicles during execution. 
+
+Check out her interview in the episode [Did supernovae make us walk upright?](http://paperboyspodcast.com/2019-Did-supernovae-make-us-walk-upright/)
+
+---------------------------------------------------------------------------------
 **Andrew Makdisi**
 Ph.D. student studying civil engineering at the University of Washington
 
